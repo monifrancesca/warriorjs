@@ -4,7 +4,6 @@ class Player {
       warrior.walk();
     } else {
       warrior.attack();
-      warrior.rest();
     }
   }
 }
